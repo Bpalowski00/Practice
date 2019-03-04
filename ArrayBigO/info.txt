@@ -1,0 +1,27 @@
+____________Built in Arrray Methods_____________
+
+Accessing - O(1)"Fast";
+
+Insertion and Removal - Depends
+or 
+Adding and Removing of begining of array  causes is not a the best and result of it is O(n);
+
+
+Searching- is O(n)
+
+If its at the end of array
+push - O(1) -constent
+pop - O(1) -constent
+
+Have to reindex
+shift - O(n)
+unshift -  O(n)
+
+concat - O(n);
+slice - O(n);
+splice - O(n);
+sort - O(n*log N);
+forEach/map/filter/reduce/ - O(n);
+
+
+
