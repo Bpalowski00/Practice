@@ -1,0 +1,14 @@
+What is an Algorithim ?
+1- A process or set of steps to accomplish a certain task.
+
+1- Devise a plan for solving problems.
+
+2. Master common problem solving patters
+
+
+Problem solving
+Understand the Problem
+Explore Concrete Examples
+Break It down
+Solve/Simplify
+Look back and Refactor
